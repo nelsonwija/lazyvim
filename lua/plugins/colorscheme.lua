@@ -6,6 +6,12 @@ return {
     },
   },
   {
+    "rebelot/kanagawa.nvim",
+    opts = {
+      style = "wave",
+    },
+  },
+  {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "onedark",

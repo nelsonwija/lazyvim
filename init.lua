@@ -6,7 +6,7 @@ local alpha = function()
 end
 
 if vim.g.neovide then
-  vim.opt.linespace = 15
+  vim.opt.linespace = 20
   vim.g.neovide_cursor_animation_length = 0.1
   vim.g.neovide_show_border = true
   -- vim.g.neovide_opacity = 0.0
